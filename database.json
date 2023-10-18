@@ -1,0 +1,169 @@
+{
+  "users": {
+    "62878451779780@s.whatsapp.net": {
+      "exp": 32,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "pasangan": "",
+      "daftar": false,
+      "nama": "Ryeon Bot",
+      "umur": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Mizunoto ✩¹",
+      "koin": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    },
+    "6282351108031@s.whatsapp.net": {
+      "exp": 150,
+      "limit": 10,
+      "udahklaim": 0,
+      "udahrampok": 0,
+      "pasangan": "",
+      "daftar": false,
+      "nama": "Ryeon",
+      "umur": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "role": "Mizunoto ✩¹",
+      "koin": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "akinator": {
+        "sesi": false,
+        "server": null,
+        "frontaddr": null,
+        "session": null,
+        "signature": null,
+        "question": null,
+        "progression": null,
+        "step": null,
+        "soal": null
+      }
+    }
+  },
+  "chats": {
+    "6282351108031@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "chatbot": false,
+      "expired": 0,
+      "nsfw": false,
+      "premnsfw": false,
+      "antiBot": false
+    },
+    "6285760451683@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "chatbot": false,
+      "expired": 0,
+      "nsfw": false,
+      "premnsfw": false
+    },
+    "62878451779780@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "antiLink": false,
+      "antiFoto": false,
+      "antiVideo": false,
+      "antiSticker": false,
+      "antiAudio": false,
+      "viewonce": false,
+      "antiBadword": false,
+      "chatbot": false,
+      "expired": 0,
+      "nsfw": false,
+      "premnsfw": false,
+      "antiBot": false
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1691239546292,
+      "lastSuccess": 1691239546292
+    },
+    "main-allmenu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1691239521949,
+      "lastSuccess": 1691239521949
+    },
+    "tool-qrcode.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1691239584619,
+      "lastSuccess": 1691239584619
+    },
+    "sticker-quotely.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1691239619513,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "62878451779780@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "jadibot": false,
+      "restrict": false,
+      "autorestart": true,
+      "restartDB": 0
+    }
+  }
+}
